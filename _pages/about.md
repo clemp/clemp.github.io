@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello, I'm Christian Lemp.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I work as a Director of Data Engineering at [The Hartford Financial Services Group](https://www.thehartford.com/) in Claims Data Science. My focus there is three main areas:
+    
+- delivering a large portfolio of data pipelines and models that integrate real-time decision analytics into business operations
+- leading a team of data engineers, computer sciences, and analysts to develop meaningful careers and personal growth
+- influencing our own workflow and department culture to be remote-friendly, efficient, and flexible
+
+I am a PhD student in [Systems Science](https://www.binghamton.edu/apps/academics/program/gd/systems-science) at [Binghamton University](https://www.binghamton.edu/watson/). In 2021 I joined the [Center for Collective Dynamics of Complex Systems (CoCo Lab)](http://coco.binghamton.edu/), where I will research simulation, modeling, and complexity science of organizations. My PhD advisor is [Dr. Hiroki Sayama](http://bingweb.binghamton.edu/~sayama/).
+
+Santa Fe, NM is home, where I live with my wife, dog, and cat. After being born and raised in NY and the east coast, I moved to Santa Fe in 2019 via road trip and a dream.
