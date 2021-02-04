@@ -10,12 +10,12 @@ Hello, I'm Christian Lemp.
 I work as a Director of Data Engineering at [The Hartford Financial Services Group](https://www.thehartford.com/) in Claims Data Science. My focus there is three main areas:
     
 - delivering a large portfolio of data pipelines and models that integrate real-time decision analytics into business operations
-- leading a team of data engineers, computer sciences, and analysts to develop meaningful careers and personal growth
+- leading a team of data engineers, computer scientists, and analysts to develop meaningful careers and personal growth
 - influencing our own workflow and department culture to be remote-friendly, efficient, and flexible
 
 Previously, I:
 
-* Spent 5 years at [Travelers Indemnity Company](http://www.travelers.com) in a variety of roles: audit analytics, operations research, and data engineering.
+* Spent 5 years at [Travelers](http://www.travelers.com) in a variety of roles: audit analytics, operations research, and data engineering.
 * Spent 2 years at The Pert Group (acquired multiple times) doing data analysis for market research and product consulting. 
 
 ## Academics
