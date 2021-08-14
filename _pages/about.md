@@ -3,13 +3,17 @@ permalink: /about/
 title: "About"
 ---
 
-Hello, I'm Christian Lemp.
+Hello, I'm Christian Lemp. Find me on [Twitter](http://www.twitter.com/c_lemp) to have a chat.
+
+## Academics
+
+I am a PhD student in [Systems Science](https://www.binghamton.edu/apps/academics/program/gd/systems-science) at [Binghamton University](https://www.binghamton.edu/watson/). In 2021 I joined the [Center for Collective Dynamics of Complex Systems (CoCo Lab)](http://coco.binghamton.edu/), where I will research simulation, modeling, and complexity science of organizations. My PhD advisor is [Dr. Hiroki Sayama](http://bingweb.binghamton.edu/~sayama/).
 
 ## Work
 
-I work as a Director of Data Engineering at [The Hartford Financial Services Group](https://www.thehartford.com/) in Claims Data Science. My focus there is three main areas:
+I work as a Director of Data Engineering at [The Hartford Financial Services Group](https://www.thehartford.com/) in Data Science. My focus there is three main areas:
     
-- delivering a large portfolio of data pipelines and models that integrate real-time decision analytics into business operations
+- delivering a large portfolio of data pipelines and models that deliver real-time decision analytics into business operations
 - leading a team of data engineers, computer scientists, and analysts to develop meaningful careers and personal growth
 - influencing our own workflow and department culture to be remote-friendly, efficient, and flexible
 
@@ -17,10 +21,6 @@ Previously, I:
 
 * Spent 5 years at [Travelers](http://www.travelers.com) in a variety of roles: audit analytics, operations research, and data engineering.
 * Spent 2 years at The Pert Group (acquired multiple times) doing data analysis for market research and product consulting. 
-
-## Academics
-
-I am a PhD student in [Systems Science](https://www.binghamton.edu/apps/academics/program/gd/systems-science) at [Binghamton University](https://www.binghamton.edu/watson/). In 2021 I joined the [Center for Collective Dynamics of Complex Systems (CoCo Lab)](http://coco.binghamton.edu/), where I will research simulation, modeling, and complexity science of organizations. My PhD advisor is [Dr. Hiroki Sayama](http://bingweb.binghamton.edu/~sayama/).
 
 Previously:
 
