@@ -71,6 +71,9 @@ By having mechanisms for shared incentives, distributed decision making, and aut
 
 Dawn is early for the decentralized organization: control systems are not yet well defined, DAO metadata is difficult to capture and correlate to governance, and many governance systems have yet to be explored. However, the thread of adjacent possibilites has woven an ecosystem of technology, interest, and energy in rethinking how we engage and define the next chapter of economic organizations.
 
+Engage in this conversation and go deeper on this Twitter thread
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">With DAOs, the principles of self-organization, creativity, and complexity in natural and biological systems can be used to dramatically change how we work.<br><br>Here I lay out the main cybernetic principles to guide creation of a successful DAO.<a href="https://t.co/dBoMjIFN7P">https://t.co/dBoMjIFN7P</a></p>&mdash; christian | lemp.eth (@c_lemp) <a href="https://twitter.com/c_lemp/status/1427615544581115904?ref_src=twsrc%5Etfw">August 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Footnotes
 
 [1] Many other researchers contributed to the development of intelligent control systems: [Norbert Wiener](https://en.wikipedia.org/wiki/Norbert_Wiener), [Karl Ludwig von Bertalanffy](https://en.wikipedia.org/wiki/Ludwig_von_Bertalanffy), and [Jon von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann), to name a few.
