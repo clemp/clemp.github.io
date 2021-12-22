@@ -9,7 +9,7 @@ tags:
 ---
 
 ## Quick summary
-Complex systems are composed of a hierarchy of subsystems. The complexity of a system can be characterized by how many layers of hierarchical subsystems exist.
+Complex systems are composed of a hierarchy of subsystems. The complexity of a system can be characterized by how many layers of hierarchical subsystems exist. A system is *nearly-decomposable* when the subsystems at different hierarchies only loosely interact.
 
 ## Notes
 Four aspects of complexity discussed in this paper:
