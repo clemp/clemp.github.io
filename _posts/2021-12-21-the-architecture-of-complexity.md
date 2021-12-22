@@ -29,11 +29,12 @@ In a formal hierarchical system each subsystem is managed by a another system ac
 ### Social systems
 
 
-> In fact, even in human organizations, the formal hierarchy exists only on paper; the real flesh-and-blood organization has many inter-part relations other than the lines of formal authority
+> In fact, even in human organizations, the formal hierarchy exists only on paper; the real flesh-and-blood organization has many inter-part relations other thaffasn the lines of formal authority
 
 
-### Physical and biological systems
+### Biological and physical systems
 
+Compounds, like diamond, have a structural hierarchy of crystals, formed by carbon atoms, which are formed by protons, neurons, and electrons. The hierarchy of a diamond crystal is considered to be *flat* because the number of first-order systems (carbon atoms) that can belong to a crystal is - in theory - infinitely large.
 
 ### Symbolic systems
 
