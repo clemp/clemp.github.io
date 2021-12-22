@@ -54,6 +54,10 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-last-modified-at
+
+last-modified-at:
+  date-format: '%B %d %Y'
 
 author:
   name   : "Christian Lemp"
