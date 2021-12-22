@@ -26,6 +26,8 @@ The relation between units at each level of hierarchy can be defined by their in
 
 In a formal hierarchical system each subsystem is managed by a another system acting as "boss." However, this paper focuses on those subsystems with more complex or unrelated dynamics to the higher level systems they are subordinates of.
 
+The ***span*** of a system refers to the number of subsystems that it can be divided into at a specific hierarchic level. For example, the diamond has a wide span at the crystal level because a crystal is composed of many carbon atom subsystems.
+
 ### Social systems
 
 
