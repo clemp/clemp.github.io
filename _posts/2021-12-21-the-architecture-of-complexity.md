@@ -1,7 +1,7 @@
 ---
 title: "The Architecture of Complexity"
 author: Herbert A. Simon
-date: 2021-12-17
+date: 2021-12-22
 categories:
   - notes
 tags:
