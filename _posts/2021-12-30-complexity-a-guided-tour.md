@@ -19,7 +19,7 @@ Once *complexity* as a concept is well enough defined we can think about ways to
 
 ## Notes
 
-### Part I
+### Part I - Background and History
 
 There is still mystery about the forces that cause a community - ants, termites, humans - to *self-organize* and build intricate structures to reinforce a resiient, long-term collective outcome.
 
@@ -27,7 +27,7 @@ In complex systems there is no central control; instead, individual agents follo
 
 The history of science, especially complex systems, is one of constructing and deconstructing the components that make up a whole - whether that be an abstract idea, a living organism, or society.
 
-That journey from parts to whole and back is complex, often unpredictable, and somewhat mysterious - even if deterministic. (And therein lies the challenge (and fun) of systems science.)^^CL
+That journey from parts to whole and back is complex, often unpredictable, and somewhat mysterious - even if deterministic. (*personal note - and therein lies the challenge (and fun) of systems science.*)
 
 The fundamental questions of complexity science is under what conditions does  emergent self-organizing behavior comes about in the system under study.
 
@@ -43,9 +43,23 @@ The *amount* of complexity in a system a common measurement in complexity scienc
 
 The field of "complex systems" started with the earlier fields of cybernetics and systems science.
 
-### Part II & III
+### Part II - Life and Evolution in Computers
 
-### Part IV & V
+Biology, evolution, and origins of life provide natural examples of computational processes for complexity scientists to emulate using models.
+
+**Genetic algorithms** are inspired by biological processes for evolution, adaptation, and optimization. Inputs to genetic algorithms have two parts: 
+- a set of programs with different problem solving strategies
+- a fitness function that scores each program for its success on a particular task
+
+Genetic algorithms mimic the process of evolution by combining strategies and introducing random mutations of existing strategies. Over time and many simulations an optimal strategy is discovered by the algorithm.
+
+Genetic algorithms often produce strategies that are highly creative and unintuitive.
+
+### Part III - Computation Writ Large
+
+### Part IV - Network Thinking
+
+### Part V - Conclusion
 
 ## Reflections
 Are humans the most complex? If so, why? Because we can extract, communicate, build, and destroy with greater power and impact than other species? What if complexity calculation included sustainable existence within the environment one lived in? Would we then be the most complex?
